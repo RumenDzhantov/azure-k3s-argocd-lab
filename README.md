@@ -45,6 +45,14 @@ This repository will include documentation for:
 - service publishing
 - troubleshooting notes
 
+## Repository Contents
+
+- [Azure VM Setup](docs/azure-vm-setup.md)
+- [k3s Installation](docs/k3s-installation.md)
+- [Argo CD](docs/argocd.md)
+- [Traefik Ingress](docs/traefik-ingress.md)
+- [Troubleshooting Notes](docs/troubleshooting.md)
+
 ## Notes
 
 Sensitive information such as IP addresses, credentials, tokens, domain secrets and private keys is excluded or redacted from this repository.
